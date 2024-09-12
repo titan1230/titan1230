@@ -52,3 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titan1230&size_weight=0.5&count_weight=0.5&layout=compact&theme=onedark&show_icons=true&langs_count=10)](https://github.com/titan1230/)
 &nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=titan1230&count_private=true&ring=DD2727&theme=onedark)](https://github.com/titan1230/)
+
+![](https://komarev.com/ghpvc/?username=titan1230&style=for-the-badge&abbreviated=true&color=4caefd)
+
+![](https://hit.yhype.me/github/profile?user_id=80115528)
